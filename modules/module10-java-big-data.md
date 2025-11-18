@@ -182,4 +182,4 @@ public class WordCountReducer extends Reducer<Text, IntWritable, Text, IntWritab
 
 ---
 
-*© 2024 - Formation Data Mining Professionnelle*
+*© 2025 - Formation Data Mining Professionnelle*

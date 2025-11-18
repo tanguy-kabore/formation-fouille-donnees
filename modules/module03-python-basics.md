@@ -772,4 +772,4 @@ print(f"\nÉvaluation: {evaluation}")
 
 ---
 
-*© 2024 - Formation Data Mining Professionnelle*
+*© 2025 - Formation Data Mining Professionnelle*

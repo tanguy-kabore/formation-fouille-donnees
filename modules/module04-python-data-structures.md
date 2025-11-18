@@ -716,4 +716,4 @@ Créez un système complet avec fichiers pour:
 
 ---
 
-*© 2024 - Formation Data Mining Professionnelle*
+*© 2025 - Formation Data Mining Professionnelle*

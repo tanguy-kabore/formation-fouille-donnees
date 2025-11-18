@@ -326,4 +326,4 @@ result2 = expensive_query(123)  # Cache hit, rapide!
 
 ---
 
-*© 2024 - Formation Data Mining Professionnelle*
+*© 2025 - Formation Data Mining Professionnelle*

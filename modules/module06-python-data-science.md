@@ -435,4 +435,4 @@ print("\n✅ Rapport exporté: rapport_ventes.csv")
 
 ---
 
-*© 2024 - Formation Data Mining Professionnelle*
+*© 2025 - Formation Data Mining Professionnelle*

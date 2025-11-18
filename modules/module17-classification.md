@@ -183,4 +183,4 @@ print(importances.head(10))
 
 ---
 
-*© 2024 - Formation Data Mining Professionnelle*
+*© 2025 - Formation Data Mining Professionnelle*

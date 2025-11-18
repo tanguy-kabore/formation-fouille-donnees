@@ -793,5 +793,4 @@ Commencez votre voyage en programmation avec Python, le langage le plus populair
 
 ---
 
-*Module conçu selon les standards académiques de Harvard, Stanford et Princeton*  
-*© 2024 - Formation Data Mining Professionnelle*
+*© 2025 - Formation Data Mining Professionnelle*

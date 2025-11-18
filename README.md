@@ -2,8 +2,7 @@
 ### De Zéro à Expert
 
 > **Cours conçu pour**: Débutants sans background informatique  
-> **Objectif**: Maîtriser le Data Mining, les langages de programmation (Python, Java, Julia/Spark), les bases de données et le Cloud Computing  
-> **Niveau**: Universitaire (Standards Harvard, Stanford, Princeton)
+> **Objectif**: Maîtriser le Data Mining, les langages de programmation (Python, Java, Julia/Spark), les bases de données et le Cloud Computing
 
 ---
 
@@ -194,5 +193,3 @@ Ce cours est conçu pour un apprentissage autonome avec support d'instructeur.
 ---
 
 **Bonne Formation! 🚀**
-
-*Cours conçu selon les standards académiques internationaux*

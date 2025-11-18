@@ -98,4 +98,4 @@ print(rules.sort_values('lift', ascending=False).head(10))
 
 ---
 
-*© 2024 - Formation Data Mining Professionnelle*
+*© 2025 - Formation Data Mining Professionnelle*

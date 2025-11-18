@@ -230,4 +230,4 @@ bib.afficher_livres_disponibles()
 
 ---
 
-*© 2024 - Formation Data Mining Professionnelle*
+*© 2025 - Formation Data Mining Professionnelle*

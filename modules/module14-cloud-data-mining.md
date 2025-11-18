@@ -99,4 +99,4 @@ model.deploy(endpoint=endpoint, machine_type='n1-standard-2')
 
 ---
 
-*© 2024 - Formation Data Mining Professionnelle*
+*© 2025 - Formation Data Mining Professionnelle*
